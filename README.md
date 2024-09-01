@@ -1,3 +1,7 @@
+Fork of vitorsilverio/dspace-client
+
+Experimental, please do no use
+
 DSpace rest client for v7 or above
 =====================================
 [![PyPI version](https://badge.fury.io/py/dspace-client.svg)](https://badge.fury.io/py/dspace-client)
